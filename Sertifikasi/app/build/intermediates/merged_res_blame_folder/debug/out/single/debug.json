@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxhdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_outcome.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_outcome.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_login.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_button_box.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/button_box.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_note.png.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/note.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_dev.png.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/dev.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xhdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_income.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_income.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_chart.png.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/chart.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_index2.jpg.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/index2.jpg"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_menu.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_listview_adapter_detail.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/listview_adapter_detail.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-ldpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-ldpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-anydpi-v21_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-anydpi-v21/ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxxhdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-mdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-mdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-anydpi-v21_ic_baseline_edit_calendar_24.xml.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-anydpi-v21/ic_baseline_edit_calendar_24.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_setting.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-ldpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-ldpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-mdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-mdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/layout_activity_detail.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_gear.jpg.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/gear.jpg"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_buku2.png.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/buku2.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxxhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_buku.png.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/buku.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable_index.jpg.flat",
+        "source": "com.project.mycashbook.app-main-21:/drawable/index.jpg"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.mycashbook.app-main-21:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-hdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-hdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-hdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-hdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.mycashbook.app-merged_res-19:/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.mycashbook.app-pngs-14:/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    }
+]
